@@ -1,0 +1,58 @@
+[
+ {
+  "_id": "6aa62e15c2b4587991d8748c",
+  "name": "Govaly Admin",
+  "email": "admin@govaly.test",
+  "phone": "+8801700000000",
+  "password": "$2a$10$bwqJUHo15OjZIJzU6qqAneHQqm6xoYRLjcABtbrheLfj/EF.kzoWq",
+  "role": "admin",
+  "wishlist": [],
+  "addresses": [],
+  "createdAt": "2026-09-13T05:01:09.452Z",
+  "updatedAt": "2026-09-13T05:01:09.452Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8748d",
+  "name": "Demo Shopper",
+  "email": "demo@govaly.test",
+  "phone": "+8801712345678",
+  "password": "$2a$10$KNW9TvgmtEFfxWBvFw1yzeI7uL3/BVQQFk/DHRr5tBI1qh3ykd7Ku",
+  "role": "customer",
+  "addresses": [
+   {
+    "label": "Home",
+    "fullName": "Demo Shopper",
+    "phone": "+8801712345678",
+    "division": "Dhaka",
+    "city": "Dhaka",
+    "area": "Dhanmondi",
+    "address": "House 12, Road 5, Dhanmondi",
+    "instruction": "",
+    "isDefault": true
+   },
+   {
+    "label": "Home",
+    "fullName": "Demo User",
+    "phone": "+8801711000001",
+    "city": "Dhaka",
+    "area": "Dhanmondi",
+    "address": "House 12, Road 5, Dhanmondi",
+    "instruction": "",
+    "isDefault": false
+   },
+   {
+    "label": "Office",
+    "fullName": "Demo User",
+    "phone": "+8801711000002",
+    "city": "Chattogram",
+    "area": "Agrabad",
+    "address": "Level 8, Awal Centre, Agrabad",
+    "instruction": "",
+    "isDefault": false
+   }
+  ],
+  "wishlist": [],
+  "createdAt": "2026-09-13T05:01:09.454Z",
+  "updatedAt": "2026-09-13T05:01:17.936Z"
+ }
+]

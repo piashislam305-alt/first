@@ -1,0 +1,4222 @@
+[
+ {
+  "_id": "6aa62e15c2b4587991d875a5",
+  "product": "6aa62e15c2b4587991d874fd",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875a6",
+  "product": "6aa62e15c2b4587991d874fd",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875a7",
+  "product": "6aa62e15c2b4587991d874fe",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875a8",
+  "product": "6aa62e15c2b4587991d874fe",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875a9",
+  "product": "6aa62e15c2b4587991d874fe",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875aa",
+  "product": "6aa62e15c2b4587991d874fe",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ab",
+  "product": "6aa62e15c2b4587991d874fe",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ac",
+  "product": "6aa62e15c2b4587991d874fe",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ad",
+  "product": "6aa62e15c2b4587991d874ff",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ae",
+  "product": "6aa62e15c2b4587991d874ff",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875af",
+  "product": "6aa62e15c2b4587991d874ff",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b0",
+  "product": "6aa62e15c2b4587991d87500",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b1",
+  "product": "6aa62e15c2b4587991d87500",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b2",
+  "product": "6aa62e15c2b4587991d87500",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b3",
+  "product": "6aa62e15c2b4587991d87501",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b4",
+  "product": "6aa62e15c2b4587991d87501",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b5",
+  "product": "6aa62e15c2b4587991d87502",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b6",
+  "product": "6aa62e15c2b4587991d87502",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b7",
+  "product": "6aa62e15c2b4587991d87502",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b8",
+  "product": "6aa62e15c2b4587991d87503",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875b9",
+  "product": "6aa62e15c2b4587991d87503",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ba",
+  "product": "6aa62e15c2b4587991d87503",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875bb",
+  "product": "6aa62e15c2b4587991d87503",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875bc",
+  "product": "6aa62e15c2b4587991d87503",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875bd",
+  "product": "6aa62e15c2b4587991d87503",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875be",
+  "product": "6aa62e15c2b4587991d87504",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875bf",
+  "product": "6aa62e15c2b4587991d87504",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c0",
+  "product": "6aa62e15c2b4587991d87504",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c1",
+  "product": "6aa62e15c2b4587991d87504",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c2",
+  "product": "6aa62e15c2b4587991d87504",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c3",
+  "product": "6aa62e15c2b4587991d87505",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c4",
+  "product": "6aa62e15c2b4587991d87505",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c5",
+  "product": "6aa62e15c2b4587991d87505",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c6",
+  "product": "6aa62e15c2b4587991d87505",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c7",
+  "product": "6aa62e15c2b4587991d87506",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c8",
+  "product": "6aa62e15c2b4587991d87506",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875c9",
+  "product": "6aa62e15c2b4587991d87506",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ca",
+  "product": "6aa62e15c2b4587991d87506",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875cb",
+  "product": "6aa62e15c2b4587991d87507",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875cc",
+  "product": "6aa62e15c2b4587991d87507",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875cd",
+  "product": "6aa62e15c2b4587991d87507",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ce",
+  "product": "6aa62e15c2b4587991d87508",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875cf",
+  "product": "6aa62e15c2b4587991d87508",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d0",
+  "product": "6aa62e15c2b4587991d87508",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d1",
+  "product": "6aa62e15c2b4587991d87508",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d2",
+  "product": "6aa62e15c2b4587991d87508",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d3",
+  "product": "6aa62e15c2b4587991d87509",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d4",
+  "product": "6aa62e15c2b4587991d87509",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d5",
+  "product": "6aa62e15c2b4587991d8750a",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d6",
+  "product": "6aa62e15c2b4587991d8750a",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d7",
+  "product": "6aa62e15c2b4587991d8750a",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d8",
+  "product": "6aa62e15c2b4587991d8750b",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875d9",
+  "product": "6aa62e15c2b4587991d8750b",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875da",
+  "product": "6aa62e15c2b4587991d8750b",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875db",
+  "product": "6aa62e15c2b4587991d8750b",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875dc",
+  "product": "6aa62e15c2b4587991d8750c",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875dd",
+  "product": "6aa62e15c2b4587991d8750c",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875de",
+  "product": "6aa62e15c2b4587991d8750c",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875df",
+  "product": "6aa62e15c2b4587991d8750c",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e0",
+  "product": "6aa62e15c2b4587991d8750d",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e1",
+  "product": "6aa62e15c2b4587991d8750d",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e2",
+  "product": "6aa62e15c2b4587991d8750d",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e3",
+  "product": "6aa62e15c2b4587991d8750d",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e4",
+  "product": "6aa62e15c2b4587991d8750d",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e5",
+  "product": "6aa62e15c2b4587991d8750d",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e6",
+  "product": "6aa62e15c2b4587991d8750e",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e7",
+  "product": "6aa62e15c2b4587991d8750e",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e8",
+  "product": "6aa62e15c2b4587991d8750e",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875e9",
+  "product": "6aa62e15c2b4587991d8750e",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ea",
+  "product": "6aa62e15c2b4587991d8750f",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875eb",
+  "product": "6aa62e15c2b4587991d8750f",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ec",
+  "product": "6aa62e15c2b4587991d8750f",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ed",
+  "product": "6aa62e15c2b4587991d8750f",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.656Z",
+  "updatedAt": "2026-09-13T05:01:09.656Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ee",
+  "product": "6aa62e15c2b4587991d8750f",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ef",
+  "product": "6aa62e15c2b4587991d87510",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f0",
+  "product": "6aa62e15c2b4587991d87510",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f1",
+  "product": "6aa62e15c2b4587991d87511",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f2",
+  "product": "6aa62e15c2b4587991d87511",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f3",
+  "product": "6aa62e15c2b4587991d87511",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f4",
+  "product": "6aa62e15c2b4587991d87511",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f5",
+  "product": "6aa62e15c2b4587991d87511",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f6",
+  "product": "6aa62e15c2b4587991d87511",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f7",
+  "product": "6aa62e15c2b4587991d87512",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f8",
+  "product": "6aa62e15c2b4587991d87512",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875f9",
+  "product": "6aa62e15c2b4587991d87512",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875fa",
+  "product": "6aa62e15c2b4587991d87512",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875fb",
+  "product": "6aa62e15c2b4587991d87512",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875fc",
+  "product": "6aa62e15c2b4587991d87512",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875fd",
+  "product": "6aa62e15c2b4587991d87513",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875fe",
+  "product": "6aa62e15c2b4587991d87513",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d875ff",
+  "product": "6aa62e15c2b4587991d87513",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87600",
+  "product": "6aa62e15c2b4587991d87514",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87601",
+  "product": "6aa62e15c2b4587991d87514",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87602",
+  "product": "6aa62e15c2b4587991d87514",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87603",
+  "product": "6aa62e15c2b4587991d87514",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87604",
+  "product": "6aa62e15c2b4587991d87514",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87605",
+  "product": "6aa62e15c2b4587991d87514",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87606",
+  "product": "6aa62e15c2b4587991d87515",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87607",
+  "product": "6aa62e15c2b4587991d87515",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87608",
+  "product": "6aa62e15c2b4587991d87516",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87609",
+  "product": "6aa62e15c2b4587991d87516",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8760a",
+  "product": "6aa62e15c2b4587991d87516",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8760b",
+  "product": "6aa62e15c2b4587991d87516",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8760c",
+  "product": "6aa62e15c2b4587991d87517",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8760d",
+  "product": "6aa62e15c2b4587991d87517",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8760e",
+  "product": "6aa62e15c2b4587991d87517",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8760f",
+  "product": "6aa62e15c2b4587991d87517",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87610",
+  "product": "6aa62e15c2b4587991d87517",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87611",
+  "product": "6aa62e15c2b4587991d87517",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87612",
+  "product": "6aa62e15c2b4587991d87518",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87613",
+  "product": "6aa62e15c2b4587991d87518",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87614",
+  "product": "6aa62e15c2b4587991d87518",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87615",
+  "product": "6aa62e15c2b4587991d87518",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87616",
+  "product": "6aa62e15c2b4587991d87518",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87617",
+  "product": "6aa62e15c2b4587991d87519",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87618",
+  "product": "6aa62e15c2b4587991d87519",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87619",
+  "product": "6aa62e15c2b4587991d87519",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8761a",
+  "product": "6aa62e15c2b4587991d8751a",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8761b",
+  "product": "6aa62e15c2b4587991d8751a",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8761c",
+  "product": "6aa62e15c2b4587991d8751a",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8761d",
+  "product": "6aa62e15c2b4587991d8751a",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8761e",
+  "product": "6aa62e15c2b4587991d8751b",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8761f",
+  "product": "6aa62e15c2b4587991d8751b",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87620",
+  "product": "6aa62e15c2b4587991d8751b",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87621",
+  "product": "6aa62e15c2b4587991d8751b",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87622",
+  "product": "6aa62e15c2b4587991d8751b",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87623",
+  "product": "6aa62e15c2b4587991d8751c",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87624",
+  "product": "6aa62e15c2b4587991d8751c",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87625",
+  "product": "6aa62e15c2b4587991d8751c",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87626",
+  "product": "6aa62e15c2b4587991d8751c",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87627",
+  "product": "6aa62e15c2b4587991d8751d",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87628",
+  "product": "6aa62e15c2b4587991d8751d",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87629",
+  "product": "6aa62e15c2b4587991d8751e",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8762a",
+  "product": "6aa62e15c2b4587991d8751e",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8762b",
+  "product": "6aa62e15c2b4587991d8751e",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8762c",
+  "product": "6aa62e15c2b4587991d8751f",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8762d",
+  "product": "6aa62e15c2b4587991d8751f",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8762e",
+  "product": "6aa62e15c2b4587991d8751f",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8762f",
+  "product": "6aa62e15c2b4587991d8751f",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87630",
+  "product": "6aa62e15c2b4587991d87520",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87631",
+  "product": "6aa62e15c2b4587991d87520",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87632",
+  "product": "6aa62e15c2b4587991d87520",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87633",
+  "product": "6aa62e15c2b4587991d87520",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87634",
+  "product": "6aa62e15c2b4587991d87520",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87635",
+  "product": "6aa62e15c2b4587991d87520",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87636",
+  "product": "6aa62e15c2b4587991d87521",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87637",
+  "product": "6aa62e15c2b4587991d87521",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87638",
+  "product": "6aa62e15c2b4587991d87521",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87639",
+  "product": "6aa62e15c2b4587991d87522",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8763a",
+  "product": "6aa62e15c2b4587991d87522",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8763b",
+  "product": "6aa62e15c2b4587991d87522",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8763c",
+  "product": "6aa62e15c2b4587991d87522",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8763d",
+  "product": "6aa62e15c2b4587991d87523",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8763e",
+  "product": "6aa62e15c2b4587991d87523",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8763f",
+  "product": "6aa62e15c2b4587991d87523",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87640",
+  "product": "6aa62e15c2b4587991d87523",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87641",
+  "product": "6aa62e15c2b4587991d87524",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87642",
+  "product": "6aa62e15c2b4587991d87524",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87643",
+  "product": "6aa62e15c2b4587991d87524",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87644",
+  "product": "6aa62e15c2b4587991d87524",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87645",
+  "product": "6aa62e15c2b4587991d87525",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87646",
+  "product": "6aa62e15c2b4587991d87525",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87647",
+  "product": "6aa62e15c2b4587991d87525",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87648",
+  "product": "6aa62e15c2b4587991d87526",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87649",
+  "product": "6aa62e15c2b4587991d87526",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8764a",
+  "product": "6aa62e15c2b4587991d87526",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8764b",
+  "product": "6aa62e15c2b4587991d87526",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8764c",
+  "product": "6aa62e15c2b4587991d87527",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.657Z",
+  "updatedAt": "2026-09-13T05:01:09.657Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8764d",
+  "product": "6aa62e15c2b4587991d87527",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8764e",
+  "product": "6aa62e15c2b4587991d87527",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8764f",
+  "product": "6aa62e15c2b4587991d87527",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87650",
+  "product": "6aa62e15c2b4587991d87528",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87651",
+  "product": "6aa62e15c2b4587991d87528",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87652",
+  "product": "6aa62e15c2b4587991d87528",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87653",
+  "product": "6aa62e15c2b4587991d87529",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87654",
+  "product": "6aa62e15c2b4587991d87529",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87655",
+  "product": "6aa62e15c2b4587991d87529",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87656",
+  "product": "6aa62e15c2b4587991d8752a",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87657",
+  "product": "6aa62e15c2b4587991d8752a",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87658",
+  "product": "6aa62e15c2b4587991d8752a",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87659",
+  "product": "6aa62e15c2b4587991d8752a",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8765a",
+  "product": "6aa62e15c2b4587991d8752a",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8765b",
+  "product": "6aa62e15c2b4587991d8752a",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8765c",
+  "product": "6aa62e15c2b4587991d8752b",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8765d",
+  "product": "6aa62e15c2b4587991d8752b",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8765e",
+  "product": "6aa62e15c2b4587991d8752b",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8765f",
+  "product": "6aa62e15c2b4587991d8752c",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87660",
+  "product": "6aa62e15c2b4587991d8752c",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87661",
+  "product": "6aa62e15c2b4587991d8752c",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87662",
+  "product": "6aa62e15c2b4587991d8752c",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87663",
+  "product": "6aa62e15c2b4587991d8752c",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87664",
+  "product": "6aa62e15c2b4587991d8752d",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87665",
+  "product": "6aa62e15c2b4587991d8752d",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87666",
+  "product": "6aa62e15c2b4587991d8752d",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87667",
+  "product": "6aa62e15c2b4587991d8752e",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87668",
+  "product": "6aa62e15c2b4587991d8752e",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87669",
+  "product": "6aa62e15c2b4587991d8752e",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8766a",
+  "product": "6aa62e15c2b4587991d8752e",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8766b",
+  "product": "6aa62e15c2b4587991d8752e",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8766c",
+  "product": "6aa62e15c2b4587991d8752e",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8766d",
+  "product": "6aa62e15c2b4587991d8752f",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8766e",
+  "product": "6aa62e15c2b4587991d8752f",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8766f",
+  "product": "6aa62e15c2b4587991d8752f",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87670",
+  "product": "6aa62e15c2b4587991d8752f",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87671",
+  "product": "6aa62e15c2b4587991d8752f",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87672",
+  "product": "6aa62e15c2b4587991d8752f",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87673",
+  "product": "6aa62e15c2b4587991d87530",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87674",
+  "product": "6aa62e15c2b4587991d87530",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87675",
+  "product": "6aa62e15c2b4587991d87530",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87676",
+  "product": "6aa62e15c2b4587991d87531",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87677",
+  "product": "6aa62e15c2b4587991d87531",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87678",
+  "product": "6aa62e15c2b4587991d87531",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87679",
+  "product": "6aa62e15c2b4587991d87531",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8767a",
+  "product": "6aa62e15c2b4587991d87532",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.658Z",
+  "updatedAt": "2026-09-13T05:01:09.658Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8767b",
+  "product": "6aa62e15c2b4587991d87532",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8767c",
+  "product": "6aa62e15c2b4587991d87532",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8767d",
+  "product": "6aa62e15c2b4587991d87532",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8767e",
+  "product": "6aa62e15c2b4587991d87533",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8767f",
+  "product": "6aa62e15c2b4587991d87533",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87680",
+  "product": "6aa62e15c2b4587991d87533",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87681",
+  "product": "6aa62e15c2b4587991d87534",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87682",
+  "product": "6aa62e15c2b4587991d87534",
+  "userName": "Rakib M.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87683",
+  "product": "6aa62e15c2b4587991d87534",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87684",
+  "product": "6aa62e15c2b4587991d87534",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87685",
+  "product": "6aa62e15c2b4587991d87535",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87686",
+  "product": "6aa62e15c2b4587991d87535",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87687",
+  "product": "6aa62e15c2b4587991d87535",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.659Z",
+  "updatedAt": "2026-09-13T05:01:09.659Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87688",
+  "product": "6aa62e15c2b4587991d87536",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87689",
+  "product": "6aa62e15c2b4587991d87536",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8768a",
+  "product": "6aa62e15c2b4587991d87536",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8768b",
+  "product": "6aa62e15c2b4587991d87536",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8768c",
+  "product": "6aa62e15c2b4587991d87536",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8768d",
+  "product": "6aa62e15c2b4587991d87537",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8768e",
+  "product": "6aa62e15c2b4587991d87537",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8768f",
+  "product": "6aa62e15c2b4587991d87537",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87690",
+  "product": "6aa62e15c2b4587991d87538",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87691",
+  "product": "6aa62e15c2b4587991d87538",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87692",
+  "product": "6aa62e15c2b4587991d87538",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87693",
+  "product": "6aa62e15c2b4587991d87538",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87694",
+  "product": "6aa62e15c2b4587991d87539",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87695",
+  "product": "6aa62e15c2b4587991d87539",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87696",
+  "product": "6aa62e15c2b4587991d87539",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87697",
+  "product": "6aa62e15c2b4587991d87539",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87698",
+  "product": "6aa62e15c2b4587991d87539",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87699",
+  "product": "6aa62e15c2b4587991d8753a",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8769a",
+  "product": "6aa62e15c2b4587991d8753a",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8769b",
+  "product": "6aa62e15c2b4587991d8753a",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8769c",
+  "product": "6aa62e15c2b4587991d8753b",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8769d",
+  "product": "6aa62e15c2b4587991d8753b",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8769e",
+  "product": "6aa62e15c2b4587991d8753b",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8769f",
+  "product": "6aa62e15c2b4587991d8753b",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a0",
+  "product": "6aa62e15c2b4587991d8753c",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a1",
+  "product": "6aa62e15c2b4587991d8753c",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a2",
+  "product": "6aa62e15c2b4587991d8753c",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a3",
+  "product": "6aa62e15c2b4587991d8753c",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a4",
+  "product": "6aa62e15c2b4587991d8753c",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a5",
+  "product": "6aa62e15c2b4587991d8753d",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a6",
+  "product": "6aa62e15c2b4587991d8753d",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a7",
+  "product": "6aa62e15c2b4587991d8753e",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a8",
+  "product": "6aa62e15c2b4587991d8753e",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876a9",
+  "product": "6aa62e15c2b4587991d8753e",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876aa",
+  "product": "6aa62e15c2b4587991d8753e",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ab",
+  "product": "6aa62e15c2b4587991d8753e",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ac",
+  "product": "6aa62e15c2b4587991d8753e",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ad",
+  "product": "6aa62e15c2b4587991d8753f",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ae",
+  "product": "6aa62e15c2b4587991d8753f",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876af",
+  "product": "6aa62e15c2b4587991d8753f",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b0",
+  "product": "6aa62e15c2b4587991d87540",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b1",
+  "product": "6aa62e15c2b4587991d87540",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b2",
+  "product": "6aa62e15c2b4587991d87540",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b3",
+  "product": "6aa62e15c2b4587991d87540",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b4",
+  "product": "6aa62e15c2b4587991d87540",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b5",
+  "product": "6aa62e15c2b4587991d87540",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b6",
+  "product": "6aa62e15c2b4587991d87541",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b7",
+  "product": "6aa62e15c2b4587991d87541",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b8",
+  "product": "6aa62e15c2b4587991d87541",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876b9",
+  "product": "6aa62e15c2b4587991d87541",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ba",
+  "product": "6aa62e15c2b4587991d87542",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876bb",
+  "product": "6aa62e15c2b4587991d87542",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876bc",
+  "product": "6aa62e15c2b4587991d87542",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876bd",
+  "product": "6aa62e15c2b4587991d87542",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.660Z",
+  "updatedAt": "2026-09-13T05:01:09.660Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876be",
+  "product": "6aa62e15c2b4587991d87542",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876bf",
+  "product": "6aa62e15c2b4587991d87543",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c0",
+  "product": "6aa62e15c2b4587991d87543",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c1",
+  "product": "6aa62e15c2b4587991d87543",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c2",
+  "product": "6aa62e15c2b4587991d87543",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c3",
+  "product": "6aa62e15c2b4587991d87543",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c4",
+  "product": "6aa62e15c2b4587991d87544",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c5",
+  "product": "6aa62e15c2b4587991d87544",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c6",
+  "product": "6aa62e15c2b4587991d87544",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c7",
+  "product": "6aa62e15c2b4587991d87544",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c8",
+  "product": "6aa62e15c2b4587991d87544",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876c9",
+  "product": "6aa62e15c2b4587991d87544",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ca",
+  "product": "6aa62e15c2b4587991d87545",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876cb",
+  "product": "6aa62e15c2b4587991d87545",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876cc",
+  "product": "6aa62e15c2b4587991d87545",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876cd",
+  "product": "6aa62e15c2b4587991d87545",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ce",
+  "product": "6aa62e15c2b4587991d87545",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876cf",
+  "product": "6aa62e15c2b4587991d87546",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d0",
+  "product": "6aa62e15c2b4587991d87546",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d1",
+  "product": "6aa62e15c2b4587991d87546",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d2",
+  "product": "6aa62e15c2b4587991d87546",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d3",
+  "product": "6aa62e15c2b4587991d87546",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d4",
+  "product": "6aa62e15c2b4587991d87547",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d5",
+  "product": "6aa62e15c2b4587991d87547",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d6",
+  "product": "6aa62e15c2b4587991d87547",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d7",
+  "product": "6aa62e15c2b4587991d87548",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d8",
+  "product": "6aa62e15c2b4587991d87548",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876d9",
+  "product": "6aa62e15c2b4587991d87548",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.661Z",
+  "updatedAt": "2026-09-13T05:01:09.661Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876da",
+  "product": "6aa62e15c2b4587991d87548",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876db",
+  "product": "6aa62e15c2b4587991d87548",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876dc",
+  "product": "6aa62e15c2b4587991d87548",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876dd",
+  "product": "6aa62e15c2b4587991d87549",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876de",
+  "product": "6aa62e15c2b4587991d87549",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876df",
+  "product": "6aa62e15c2b4587991d87549",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e0",
+  "product": "6aa62e15c2b4587991d8754a",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e1",
+  "product": "6aa62e15c2b4587991d8754a",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e2",
+  "product": "6aa62e15c2b4587991d8754a",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e3",
+  "product": "6aa62e15c2b4587991d8754a",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e4",
+  "product": "6aa62e15c2b4587991d8754a",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e5",
+  "product": "6aa62e15c2b4587991d8754a",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e6",
+  "product": "6aa62e15c2b4587991d8754b",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e7",
+  "product": "6aa62e15c2b4587991d8754b",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e8",
+  "product": "6aa62e15c2b4587991d8754c",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876e9",
+  "product": "6aa62e15c2b4587991d8754c",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ea",
+  "product": "6aa62e15c2b4587991d8754c",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876eb",
+  "product": "6aa62e15c2b4587991d8754c",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.662Z",
+  "updatedAt": "2026-09-13T05:01:09.662Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ec",
+  "product": "6aa62e15c2b4587991d8754d",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ed",
+  "product": "6aa62e15c2b4587991d8754d",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ee",
+  "product": "6aa62e15c2b4587991d8754d",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ef",
+  "product": "6aa62e15c2b4587991d8754d",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f0",
+  "product": "6aa62e15c2b4587991d8754e",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f1",
+  "product": "6aa62e15c2b4587991d8754e",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f2",
+  "product": "6aa62e15c2b4587991d8754e",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f3",
+  "product": "6aa62e15c2b4587991d8754e",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f4",
+  "product": "6aa62e15c2b4587991d8754e",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f5",
+  "product": "6aa62e15c2b4587991d8754e",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f6",
+  "product": "6aa62e15c2b4587991d8754f",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f7",
+  "product": "6aa62e15c2b4587991d8754f",
+  "userName": "Rakib M.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f8",
+  "product": "6aa62e15c2b4587991d8754f",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876f9",
+  "product": "6aa62e15c2b4587991d87550",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876fa",
+  "product": "6aa62e15c2b4587991d87550",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876fb",
+  "product": "6aa62e15c2b4587991d87550",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876fc",
+  "product": "6aa62e15c2b4587991d87551",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876fd",
+  "product": "6aa62e15c2b4587991d87551",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876fe",
+  "product": "6aa62e15c2b4587991d87551",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d876ff",
+  "product": "6aa62e15c2b4587991d87552",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87700",
+  "product": "6aa62e15c2b4587991d87552",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87701",
+  "product": "6aa62e15c2b4587991d87552",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87702",
+  "product": "6aa62e15c2b4587991d87552",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87703",
+  "product": "6aa62e15c2b4587991d87553",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87704",
+  "product": "6aa62e15c2b4587991d87553",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87705",
+  "product": "6aa62e15c2b4587991d87554",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87706",
+  "product": "6aa62e15c2b4587991d87554",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87707",
+  "product": "6aa62e15c2b4587991d87554",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87708",
+  "product": "6aa62e15c2b4587991d87554",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87709",
+  "product": "6aa62e15c2b4587991d87554",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8770a",
+  "product": "6aa62e15c2b4587991d87555",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8770b",
+  "product": "6aa62e15c2b4587991d87555",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8770c",
+  "product": "6aa62e15c2b4587991d87555",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8770d",
+  "product": "6aa62e15c2b4587991d87555",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8770e",
+  "product": "6aa62e15c2b4587991d87556",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8770f",
+  "product": "6aa62e15c2b4587991d87556",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87710",
+  "product": "6aa62e15c2b4587991d87556",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87711",
+  "product": "6aa62e15c2b4587991d87556",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87712",
+  "product": "6aa62e15c2b4587991d87556",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87713",
+  "product": "6aa62e15c2b4587991d87557",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87714",
+  "product": "6aa62e15c2b4587991d87557",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87715",
+  "product": "6aa62e15c2b4587991d87558",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87716",
+  "product": "6aa62e15c2b4587991d87558",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87717",
+  "product": "6aa62e15c2b4587991d87558",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87718",
+  "product": "6aa62e15c2b4587991d87559",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87719",
+  "product": "6aa62e15c2b4587991d87559",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8771a",
+  "product": "6aa62e15c2b4587991d87559",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8771b",
+  "product": "6aa62e15c2b4587991d87559",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8771c",
+  "product": "6aa62e15c2b4587991d87559",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8771d",
+  "product": "6aa62e15c2b4587991d87559",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8771e",
+  "product": "6aa62e15c2b4587991d8755a",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8771f",
+  "product": "6aa62e15c2b4587991d8755a",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87720",
+  "product": "6aa62e15c2b4587991d8755a",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87721",
+  "product": "6aa62e15c2b4587991d8755b",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87722",
+  "product": "6aa62e15c2b4587991d8755b",
+  "userName": "Sadia H.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87723",
+  "product": "6aa62e15c2b4587991d8755b",
+  "userName": "Farhan I.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87724",
+  "product": "6aa62e15c2b4587991d8755b",
+  "userName": "Sadia H.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87725",
+  "product": "6aa62e15c2b4587991d8755c",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87726",
+  "product": "6aa62e15c2b4587991d8755c",
+  "userName": "Mim K.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87727",
+  "product": "6aa62e15c2b4587991d8755c",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87728",
+  "product": "6aa62e15c2b4587991d8755c",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Authentic product",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87729",
+  "product": "6aa62e15c2b4587991d8755c",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8772a",
+  "product": "6aa62e15c2b4587991d8755d",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8772b",
+  "product": "6aa62e15c2b4587991d8755d",
+  "userName": "Farhan I.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8772c",
+  "product": "6aa62e15c2b4587991d8755d",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8772d",
+  "product": "6aa62e15c2b4587991d8755e",
+  "userName": "Nusrat J.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8772e",
+  "product": "6aa62e15c2b4587991d8755e",
+  "userName": "Sadia H.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8772f",
+  "product": "6aa62e15c2b4587991d8755e",
+  "userName": "Nusrat J.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87730",
+  "product": "6aa62e15c2b4587991d8755e",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87731",
+  "product": "6aa62e15c2b4587991d8755e",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87732",
+  "product": "6aa62e15c2b4587991d8755e",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87733",
+  "product": "6aa62e15c2b4587991d8755f",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87734",
+  "product": "6aa62e15c2b4587991d8755f",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87735",
+  "product": "6aa62e15c2b4587991d8755f",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Fast delivery",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87736",
+  "product": "6aa62e15c2b4587991d8755f",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87737",
+  "product": "6aa62e15c2b4587991d8755f",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87738",
+  "product": "6aa62e15c2b4587991d8755f",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87739",
+  "product": "6aa62e15c2b4587991d87560",
+  "userName": "Tanvir A.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8773a",
+  "product": "6aa62e15c2b4587991d87560",
+  "userName": "Shakil R.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8773b",
+  "product": "6aa62e15c2b4587991d87560",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8773c",
+  "product": "6aa62e15c2b4587991d87560",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8773d",
+  "product": "6aa62e15c2b4587991d87560",
+  "userName": "Arif C.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8773e",
+  "product": "6aa62e15c2b4587991d87560",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8773f",
+  "product": "6aa62e15c2b4587991d87561",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87740",
+  "product": "6aa62e15c2b4587991d87561",
+  "userName": "Farhan I.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87741",
+  "product": "6aa62e15c2b4587991d87561",
+  "userName": "Mim K.",
+  "rating": 5,
+  "title": "Fast delivery",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87742",
+  "product": "6aa62e15c2b4587991d87561",
+  "userName": "Nusrat J.",
+  "rating": 4,
+  "title": "Authentic product",
+  "comment": "Original product, sealed pack. Will order again.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87743",
+  "product": "6aa62e15c2b4587991d87561",
+  "userName": "Tanvir A.",
+  "rating": 3,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.664Z",
+  "updatedAt": "2026-09-13T05:01:09.664Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87744",
+  "product": "6aa62e15c2b4587991d87562",
+  "userName": "Rakib M.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Quality is really good for this price. Govaly never disappoints.",
+  "createdAt": "2026-09-13T05:01:09.665Z",
+  "updatedAt": "2026-09-13T05:01:09.665Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87745",
+  "product": "6aa62e15c2b4587991d87562",
+  "userName": "Tanvir A.",
+  "rating": 5,
+  "title": "As described",
+  "comment": "Seller behavior was great, product is authentic.",
+  "createdAt": "2026-09-13T05:01:09.665Z",
+  "updatedAt": "2026-09-13T05:01:09.665Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87746",
+  "product": "6aa62e15c2b4587991d87563",
+  "userName": "Arif C.",
+  "rating": 5,
+  "title": "Great value",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.665Z",
+  "updatedAt": "2026-09-13T05:01:09.665Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87747",
+  "product": "6aa62e15c2b4587991d87563",
+  "userName": "Shakil R.",
+  "rating": 4,
+  "title": "As described",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.665Z",
+  "updatedAt": "2026-09-13T05:01:09.665Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87748",
+  "product": "6aa62e15c2b4587991d87563",
+  "userName": "Arif C.",
+  "rating": 4,
+  "title": "Fast delivery",
+  "comment": "Comfortable and looks premium. Worth the money.",
+  "createdAt": "2026-09-13T05:01:09.665Z",
+  "updatedAt": "2026-09-13T05:01:09.665Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87749",
+  "product": "6aa62e15c2b4587991d87563",
+  "userName": "Shakil R.",
+  "rating": 3,
+  "title": "Authentic product",
+  "comment": "Product exactly as shown, delivery was super fast. Recommended!",
+  "createdAt": "2026-09-13T05:01:09.665Z",
+  "updatedAt": "2026-09-13T05:01:09.665Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8774a",
+  "product": "6aa62e15c2b4587991d87563",
+  "userName": "Mim K.",
+  "rating": 4,
+  "title": "Great value",
+  "comment": "Received within 2 days in Dhaka. Packaging was neat.",
+  "createdAt": "2026-09-13T05:01:09.665Z",
+  "updatedAt": "2026-09-13T05:01:09.665Z"
+ }
+]

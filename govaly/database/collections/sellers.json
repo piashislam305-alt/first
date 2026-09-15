@@ -1,0 +1,57 @@
+[
+ {
+  "_id": "6aa62e15c2b4587991d874f3",
+  "name": "Trendy Hub BD",
+  "slug": "trendy-hub-bd",
+  "logo": "",
+  "description": "Verified Govaly seller — authentic products, fast delivery.",
+  "rating": 4.6,
+  "isActive": true,
+  "createdAt": "2026-09-13T05:01:09.506Z",
+  "updatedAt": "2026-09-13T05:01:09.506Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d874f4",
+  "name": "Dhaka Fashion House",
+  "slug": "dhaka-fashion-house",
+  "logo": "",
+  "description": "Verified Govaly seller — authentic products, fast delivery.",
+  "rating": 4.6,
+  "isActive": true,
+  "createdAt": "2026-09-13T05:01:09.506Z",
+  "updatedAt": "2026-09-13T05:01:09.506Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d874f2",
+  "name": "Govaly Retail",
+  "slug": "govaly-retail",
+  "logo": "",
+  "description": "Verified Govaly seller — authentic products, fast delivery.",
+  "rating": 4.8,
+  "isActive": true,
+  "createdAt": "2026-09-13T05:01:09.506Z",
+  "updatedAt": "2026-09-13T05:01:09.506Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d874f5",
+  "name": "Baby & Kids Zone",
+  "slug": "baby-kids-zone",
+  "logo": "",
+  "description": "Verified Govaly seller — authentic products, fast delivery.",
+  "rating": 4.7,
+  "isActive": true,
+  "createdAt": "2026-09-13T05:01:09.506Z",
+  "updatedAt": "2026-09-13T05:01:09.506Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d874f6",
+  "name": "Glow Beauty House",
+  "slug": "glow-beauty-house",
+  "logo": "",
+  "description": "Verified Govaly seller — authentic products, fast delivery.",
+  "rating": 4.8,
+  "isActive": true,
+  "createdAt": "2026-09-13T05:01:09.506Z",
+  "updatedAt": "2026-09-13T05:01:09.506Z"
+ }
+]

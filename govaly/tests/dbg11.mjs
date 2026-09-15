@@ -1,0 +1,16 @@
+import { BASE, makeTally, boot, navigator, setInput } from './common.mjs';
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const { window, doc } = await boot({ sandbox: true });
+const go = navigator(window);
+const type = setInput(window);
+go('/chat'); await sleep(1000);
+const cIn = doc.querySelector('.chat-page .chat-input input');
+type(cIn, 'hi');
+console.log('input value after type:', JSON.stringify(cIn.value));
+const send = doc.querySelector('.chat-page .chat-send');
+console.log('send disabled?', send.disabled);
+send.click(); await sleep(600);
+console.log('after 600ms:', doc.body.textContent.replace(/\s+/g,' ').slice(doc.body.textContent.indexOf('Live Chat'), doc.body.textContent.indexOf('Live Chat')+300));
+await sleep(1200);
+console.log('after 1800ms:', doc.body.textContent.replace(/\s+/g,' ').slice(doc.body.textContent.indexOf('Live Chat'), doc.body.textContent.indexOf('Live Chat')+320));
+process.exit(0);

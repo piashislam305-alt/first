@@ -1,0 +1,13 @@
+import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import api from '../api.js';
+import ProductCard from '../components/ProductCard.jsx';
+import { Spinner } from '../components/ui.jsx';
+
+const TABS = [{key:'',label:'For You'},{key:'men',label:'Men'},{key:'women',label:'Women'},{key:'kids',label:'Kids'},{key:'baby',label:'Baby'},{key:'health-beauty',label:'Health & Beauty'}];
+const perks = [['/img/brand/usp-cod.png','Cash On Delivery'],['/img/brand/usp-return.png','Instant Return'],['/img/brand/usp-delivery.png','Delivery Within 48hrs'],['/img/brand/usp-price.png','Best Price Deal']];
+
+function ShopByCategory(){const [subs,setSubs]=useState(null);useEffect(()=>{api.get('/categories').then(({data})=>setSubs((data.categories||[]).filter(c=>!c.isParent))).catch(()=>setSubs([]))},[]);if(!subs)return <Spinner/>;return <section className="section container"><h3 className="sec-title">Shop by Category</h3><div className="cat-scroll">{subs.map(c=><Link className="cat-item" to={`/category/${c.slug}`} key={c.slug}><span className="cat-imgwrap"><img src={c.image||'/favicon.svg'} alt={c.name} loading="lazy"/></span><span>{c.name}</span></Link>)}</div></section>}
+function ProductTabs(){const [tab,setTab]=useState(''),[items,setItems]=useState([]),[loading,setLoading]=useState(true);useEffect(()=>{setLoading(true);api.get('/products',{params:{group:tab||undefined,limit:20,sort:'popular'}}).then(({data})=>setItems(data.items||[])).catch(()=>setItems([])).finally(()=>setLoading(false))},[tab]);return <section className="section container"><div className="tabs">{TABS.map(t=><button key={t.key} className={`tab${tab===t.key?' on':''}`} onClick={()=>setTab(t.key)}>{t.label}</button>)}</div>{loading?<Spinner/>:<div className="grid">{items.map(p=><ProductCard p={p} key={p._id} compact/>)}</div>}<div className="center"><Link className="btn btn-outline btn-sm" to={`/products${tab?`?group=${tab}`:''}`}>View All Products →</Link></div></section>}
+function Hero(){return <><section className="home-hero"><div className="hero-copy"><span>Discover your style</span><h1>Everything you love,<br/><b>all in one place.</b></h1><p>Shop fashion, beauty, lifestyle and more from Bangladesh's favorite marketplace.</p><Link to="/products" className="hero-btn">Shop Now</Link></div><img src="/img/deals/featured-women-flats.jpg" alt="Featured fashion"/></section><div className="usp-strip container">{perks.map(([img,label])=><div className="usp" key={label}><img src={img} alt=""/><span>{label}</span></div>)}</div></>}
+export default function Home(){return <><Hero/><ShopByCategory/><ProductTabs/></>}

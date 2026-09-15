@@ -1,0 +1,346 @@
+[
+ {
+  "_id": "6aa62e15c2b4587991d8774e",
+  "user": "6aa62e15c2b4587991d8748d",
+  "orderId": "GV-MTZCJANP45",
+  "items": [
+   {
+    "product": "6aa62e15c2b4587991d874ff",
+    "slug": "panda-comfortable-white-sneaker",
+    "name": "Panda Comfortable White Sneaker",
+    "image": "/img/products/panda-comfortable-white-sneaker.jpg",
+    "seller": "glow-beauty-house",
+    "color": "Olive Green",
+    "size": "39",
+    "price": 865,
+    "mrp": 1200,
+    "qty": 2,
+    "review": {
+     "type": "Positive",
+     "rating": 5,
+     "comment": "Great quality, fast delivery. Highly recommended!"
+    }
+   },
+   {
+    "product": "6aa62e15c2b4587991d8750a",
+    "slug": "treadvibe-exclusive-rubber-sole-lace-up-sneaker-for-men-black-x-white",
+    "name": "TreadVibe Exclusive Rubber Sole Lace-Up Sneaker — Black x White",
+    "image": "/img/products/treadvibe-exclusive-rubber-sole-lace-up-sneaker-for-men-black-x-white.jpg",
+    "seller": "govaly-retail",
+    "color": "Navy Blue",
+    "size": "39",
+    "price": 999,
+    "mrp": 1890,
+    "qty": 1,
+    "review": null
+   }
+  ],
+  "address": {
+   "fullName": "Demo Shopper",
+   "phone": "+8801712345678",
+   "division": "Dhaka",
+   "city": "Dhaka",
+   "area": "Dhanmondi",
+   "address": "House 12, Road 5, Dhanmondi"
+  },
+  "payment": {
+   "method": "cod",
+   "status": "pending",
+   "txnId": ""
+  },
+  "coupon": {
+   "code": "",
+   "discount": 0
+  },
+  "subtotal": 2729,
+  "deliveryFee": 0,
+  "total": 2729,
+  "status": "Delivered",
+  "shopRating": 0,
+  "serviceRating": 0,
+  "timeline": [
+   {
+    "status": "Pending",
+    "at": "2026-09-07T05:01:09.685Z",
+    "note": "Your order has been placed and is waiting for confirmation",
+    "_id": "6aa62e15c2b4587991d8774f"
+   },
+   {
+    "status": "Processing",
+    "at": "2026-09-07T10:01:09.685Z",
+    "note": "Your order has been confirmed and is being prepared",
+    "_id": "6aa62e15c2b4587991d87750"
+   },
+   {
+    "status": "Delivered",
+    "at": "2026-09-07T15:01:09.685Z",
+    "note": "Your order has been delivered successfully",
+    "_id": "6aa62e15c2b4587991d87751"
+   }
+  ],
+  "createdAt": "2026-09-13T05:01:09.689Z",
+  "updatedAt": "2026-09-13T05:01:09.689Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87753",
+  "user": "6aa62e15c2b4587991d8748d",
+  "orderId": "GV-MTZCJANV62",
+  "items": [
+   {
+    "product": "6aa62e15c2b4587991d87502",
+    "slug": "mens-dual-buckle-casual-slide-sandals-olive-green",
+    "name": "Men's Dual Buckle Casual Slide Sandals — Olive Green",
+    "image": "/img/products/mens-dual-buckle-casual-slide-sandals-olive-green.jpg",
+    "seller": "govaly-retail",
+    "color": "Navy Blue",
+    "size": "39",
+    "price": 589,
+    "mrp": 890,
+    "qty": 2,
+    "review": null
+   },
+   {
+    "product": "6aa62e15c2b4587991d87506",
+    "slug": "adda-exclusive-ring-toe-ash-x-black-sandal-for-men",
+    "name": "Adda Exclusive Ring Toe Sandal for Men — Ash x Black",
+    "image": "/img/products/adda-exclusive-ring-toe-ash-x-black-sandal-for-men.jpg",
+    "seller": "govaly-retail",
+    "color": "Navy Blue",
+    "size": "39",
+    "price": 670,
+    "mrp": 799,
+    "qty": 1,
+    "review": null
+   }
+  ],
+  "address": {
+   "fullName": "Demo Shopper",
+   "phone": "+8801712345678",
+   "division": "Dhaka",
+   "city": "Dhaka",
+   "area": "Dhanmondi",
+   "address": "House 12, Road 5, Dhanmondi"
+  },
+  "payment": {
+   "method": "cod",
+   "status": "pending",
+   "txnId": ""
+  },
+  "coupon": {
+   "code": "",
+   "discount": 0
+  },
+  "subtotal": 1848,
+  "deliveryFee": 0,
+  "total": 1848,
+  "status": "Delivered",
+  "shopRating": 0,
+  "serviceRating": 0,
+  "timeline": [
+   {
+    "status": "Pending",
+    "at": "2026-09-08T05:01:09.691Z",
+    "note": "Your order has been placed and is waiting for confirmation",
+    "_id": "6aa62e15c2b4587991d87754"
+   },
+   {
+    "status": "Processing",
+    "at": "2026-09-08T10:01:09.691Z",
+    "note": "Your order has been confirmed and is being prepared",
+    "_id": "6aa62e15c2b4587991d87755"
+   },
+   {
+    "status": "Delivered",
+    "at": "2026-09-08T15:01:09.691Z",
+    "note": "Your order has been delivered successfully",
+    "_id": "6aa62e15c2b4587991d87756"
+   }
+  ],
+  "createdAt": "2026-09-13T05:01:09.693Z",
+  "updatedAt": "2026-09-13T05:01:09.693Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d87758",
+  "user": "6aa62e15c2b4587991d8748d",
+  "orderId": "GV-MTZCJANY69",
+  "items": [
+   {
+    "product": "6aa62e15c2b4587991d87508",
+    "slug": "gillette-fusion-manual-shaving-razor-blades-4-pcs-cartridge-uk",
+    "name": "Gillette Fusion Manual Shaving Razor Blades 4s Cartridge (UK)",
+    "image": "/img/products/gillette-fusion-manual-shaving-razor-blades-4-pcs-cartridge-uk.jpg",
+    "seller": "dhaka-fashion-house",
+    "color": "Pink",
+    "size": "Free Size",
+    "price": 1890,
+    "mrp": 2290,
+    "qty": 2,
+    "review": null
+   },
+   {
+    "product": "6aa62e15c2b4587991d87511",
+    "slug": "treadvibe-trp-rubber-sole-lace-up-sneaker-for-men-black",
+    "name": "TreadVibe TRP Rubber Sole Lace-Up Sneaker for Men — Black",
+    "image": "/img/products/treadvibe-trp-rubber-sole-lace-up-sneaker-for-men-black.jpg",
+    "seller": "trendy-hub-bd",
+    "color": "Black",
+    "size": "39",
+    "price": 1099,
+    "mrp": 1890,
+    "qty": 1,
+    "review": null
+   }
+  ],
+  "address": {
+   "fullName": "Demo Shopper",
+   "phone": "+8801712345678",
+   "division": "Dhaka",
+   "city": "Dhaka",
+   "area": "Dhanmondi",
+   "address": "House 12, Road 5, Dhanmondi"
+  },
+  "payment": {
+   "method": "cod",
+   "status": "pending",
+   "txnId": ""
+  },
+  "coupon": {
+   "code": "",
+   "discount": 0
+  },
+  "subtotal": 4879,
+  "deliveryFee": 0,
+  "total": 4879,
+  "status": "Processing",
+  "shopRating": 0,
+  "serviceRating": 0,
+  "timeline": [
+   {
+    "status": "Pending",
+    "at": "2026-09-11T05:01:09.694Z",
+    "note": "Your order has been placed and is waiting for confirmation",
+    "_id": "6aa62e15c2b4587991d87759"
+   },
+   {
+    "status": "Processing",
+    "at": "2026-09-11T10:01:09.694Z",
+    "note": "Your order has been confirmed and is being prepared",
+    "_id": "6aa62e15c2b4587991d8775a"
+   }
+  ],
+  "createdAt": "2026-09-13T05:01:09.696Z",
+  "updatedAt": "2026-09-13T05:01:09.696Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8775c",
+  "user": "6aa62e15c2b4587991d8748d",
+  "orderId": "GV-MTZCJAO173",
+  "items": [
+   {
+    "product": "6aa62e15c2b4587991d8751b",
+    "slug": "imported-floral-embroidery-mesh-fabric-maroon-bra-panty-set-pink",
+    "name": "Imported Floral Embroidery Mesh Fabric Set — Maroon x Pink",
+    "image": "/img/products/imported-floral-embroidery-mesh-fabric-maroon-bra-panty-set-pink.jpg",
+    "seller": "trendy-hub-bd",
+    "color": "Black",
+    "size": "M",
+    "price": 854,
+    "mrp": 1299,
+    "qty": 3,
+    "review": null
+   }
+  ],
+  "address": {
+   "fullName": "Demo Shopper",
+   "phone": "+8801712345678",
+   "division": "Dhaka",
+   "city": "Dhaka",
+   "area": "Dhanmondi",
+   "address": "House 12, Road 5, Dhanmondi"
+  },
+  "payment": {
+   "method": "cod",
+   "status": "pending",
+   "txnId": ""
+  },
+  "coupon": {
+   "code": "",
+   "discount": 0
+  },
+  "subtotal": 2562,
+  "deliveryFee": 0,
+  "total": 2562,
+  "status": "Placed",
+  "shopRating": 0,
+  "serviceRating": 0,
+  "timeline": [
+   {
+    "status": "Pending",
+    "at": "2026-09-13T05:01:09.697Z",
+    "note": "Your order has been placed and is waiting for confirmation",
+    "_id": "6aa62e15c2b4587991d8775d"
+   }
+  ],
+  "createdAt": "2026-09-13T05:01:09.699Z",
+  "updatedAt": "2026-09-13T05:01:09.699Z"
+ },
+ {
+  "_id": "6aa62e15c2b4587991d8775f",
+  "user": "6aa62e15c2b4587991d8748d",
+  "orderId": "GV-MTZCJAO528",
+  "items": [
+   {
+    "product": "6aa62e15c2b4587991d8751e",
+    "slug": "front-open-butterfly-bra-panty-set-deep-maroon",
+    "name": "Front Open Butterfly Set — Deep Maroon",
+    "image": "/img/products/front-open-butterfly-bra-panty-set-deep-maroon.jpg",
+    "seller": "baby-kids-zone",
+    "color": "Pink",
+    "size": "M",
+    "price": 719,
+    "mrp": 949,
+    "qty": 1,
+    "review": null
+   }
+  ],
+  "address": {
+   "fullName": "Demo Shopper",
+   "phone": "+8801712345678",
+   "division": "Dhaka",
+   "city": "Dhaka",
+   "area": "Dhanmondi",
+   "address": "House 12, Road 5, Dhanmondi"
+  },
+  "payment": {
+   "method": "cod",
+   "status": "pending",
+   "txnId": ""
+  },
+  "coupon": {
+   "code": "",
+   "discount": 0
+  },
+  "subtotal": 719,
+  "deliveryFee": 60,
+  "total": 779,
+  "status": "Cancelled",
+  "shopRating": 0,
+  "serviceRating": 0,
+  "timeline": [
+   {
+    "status": "Pending",
+    "at": "2026-09-10T05:01:09.701Z",
+    "note": "Your order has been placed and is waiting for confirmation",
+    "_id": "6aa62e15c2b4587991d87760"
+   },
+   {
+    "status": "Cancelled",
+    "at": "2026-09-10T10:01:09.701Z",
+    "note": "Your order has been cancelled",
+    "_id": "6aa62e15c2b4587991d87761"
+   }
+  ],
+  "createdAt": "2026-09-13T05:01:09.702Z",
+  "updatedAt": "2026-09-13T05:01:09.702Z"
+ }
+]
